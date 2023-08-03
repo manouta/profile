@@ -48,16 +48,15 @@
       </a>
       <br>Javascript
     </td>
+  </tr>
+  <tr>
      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vue JS
     </td>
-           
-  </tr>
-  
-  <tr>
+    
      <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
@@ -76,14 +75,14 @@
       </a>
       <br>MySQL
     </td>
+    </tr>
+    <tr>
      <td align="center" width="96">
       <a href="#ts">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
         <a href="#alpinejs">
             <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -106,6 +105,8 @@
       </a>
       <br>VS Code
       </td>
+      </tr>
+      <tr>
       <td align="center" width="96">
         <a href="#alpinejs">
             <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"  />
