@@ -77,7 +77,8 @@
       </a>
       <br>TypeScript
     </td>
-     
+  </tr>
+  <tr>
     <td align="center" width="96">
         <a href="#alpinejs">
             <img width="48" height="48" src="https://github.com/manouta/profile/blob/main/icons8-python-48.png" alt="python--v1"/>
