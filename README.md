@@ -48,8 +48,6 @@
       </a>
       <br>Javascript
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
       <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
@@ -62,6 +60,7 @@
       </a>
       <br>PHP
     </td>
+  </tr>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
