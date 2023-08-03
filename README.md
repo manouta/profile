@@ -56,7 +56,8 @@
       </a>
       <br>Vue JS
     </td>
-    
+  </tr>
+  <tr>
      <td align="center" width="96">
       <a href="#nuxtjs" >
         <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
