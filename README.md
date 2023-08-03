@@ -85,7 +85,7 @@
      
     <td align="center" width="96">
         <a href="#alpinejs">
-            <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+            <img width="48" height="48" src="https://github.com/manouta/profile/blob/main/icons8-python-48.png" alt="python--v1"/>
             
         </a>
         <br>Python
@@ -96,19 +96,19 @@
    
       <td align="center" width="96">
       <a href="#git" >
-        <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+        <img width="48" height="48" src="https://github.com/manouta/profile/blob/main/icons8-git-48.png" alt="git"/>
       </a>
       <br>Git
     </td>
       <td align="center"  width="96">
       <a href="#vscode">
-        <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> 
+        <img width="48" height="48" src="https://github.com/manouta/profile/blob/main/icons8-vs-code-48.png" alt="visual-studio-code-2019"/> 
       </a>
       <br>VS Code
       </td>
       <td align="center" width="96">
         <a href="#alpinejs">
-            <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"  />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png"  />
         </a>
         <br>PhpMyAdmin
     </td> 
