@@ -42,8 +42,6 @@
       </a>
       <br>Bootstrap
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
       <a href="#js">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
@@ -63,8 +61,6 @@
       </a>
       <br>PHP
     </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
@@ -83,8 +79,6 @@
       </a>
       <br>TypeScript
     </td>
-    </tr>
-    <tr>
     <td align="center" width="96">
         <a href="#alpinejs">
             <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
@@ -104,15 +98,13 @@
       </a>
       <br>VS Code
       </td>
-      </tr>
-      <tr>
       <td align="center" width="96">
         <a href="#alpinejs">
             <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"  />
         </a>
         <br>PhpMyAdmin
-    </td> 
-  </tr>
+    </td>
+    </tr>
 </table>
 
 ---
